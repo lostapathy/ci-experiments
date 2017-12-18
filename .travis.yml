@@ -15,9 +15,9 @@ addons:
       - sourceline: "ppa:mc3man/trusty-media"
       - sourceline: "ppa:ubuntuhandbook1/apps"
     packages:
-      - ffmpeg
-      - mupdf
-      - mupdf-tools
+      #- ffmpeg
+      #- mupdf
+      #- mupdf-tools
 
 script:
   - df -h
